@@ -1,0 +1,10 @@
+C:\Users\alumnos\Desktop\alumno04\BotonPrevioExamen\BotonPrevioExamen\obj\Debug\BotonPrevioExamen.csprojAssemblyReference.cache
+C:\Users\alumnos\Desktop\alumno04\BotonPrevioExamen\BotonPrevioExamen\obj\Debug\BotonPrevioExamen.Form1.resources
+C:\Users\alumnos\Desktop\alumno04\BotonPrevioExamen\BotonPrevioExamen\obj\Debug\BotonPrevioExamen.Properties.Resources.resources
+C:\Users\alumnos\Desktop\alumno04\BotonPrevioExamen\BotonPrevioExamen\obj\Debug\BotonPrevioExamen.csproj.GenerateResource.cache
+C:\Users\alumnos\Desktop\alumno04\BotonPrevioExamen\BotonPrevioExamen\obj\Debug\BotonPrevioExamen.csproj.CoreCompileInputs.cache
+C:\Users\alumnos\Desktop\alumno04\BotonPrevioExamen\BotonPrevioExamen\bin\Debug\BotonPrevioExamen.exe.config
+C:\Users\alumnos\Desktop\alumno04\BotonPrevioExamen\BotonPrevioExamen\bin\Debug\BotonPrevioExamen.exe
+C:\Users\alumnos\Desktop\alumno04\BotonPrevioExamen\BotonPrevioExamen\bin\Debug\BotonPrevioExamen.pdb
+C:\Users\alumnos\Desktop\alumno04\BotonPrevioExamen\BotonPrevioExamen\obj\Debug\BotonPrevioExamen.exe
+C:\Users\alumnos\Desktop\alumno04\BotonPrevioExamen\BotonPrevioExamen\obj\Debug\BotonPrevioExamen.pdb
